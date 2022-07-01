@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthurCDG
 - 👀 I’m interested in coding, NBA, NFL and hard-boild-school novels
-- 🌱 I'm a fullstack JavaScript developer and use mostly React and Express/Node.js frameworks 
+- 🌱 I'm a fullstack software engineer, mostly coding on C# (dotnet) and JavaScript (React, Angular, Node.js) projects
 - 💞️ I’m looking to collaborate on training projects to apply my skills
 - 📫 How to reach me: hit me up on Github
 
